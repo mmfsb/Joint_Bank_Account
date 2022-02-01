@@ -9,8 +9,8 @@ Automate the creation of joint savings accounts and create a Solidity smart cont
 ![joint_savings](Images/joint_savings.gif)
 
 ## Define the authorized Ethereum address that will be able to withdraw funds from your contract.
-Dummy account1 address: 0x0c0669Cd5e60a6F4b8ce437E4a4A007093D368Cb
-Dummy account2 address: 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0
+- Dummy account1 address: 0x0c0669Cd5e60a6F4b8ce437E4a4A007093D368Cb
+- Dummy account2 address: 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0
 
 ## Test the deposit functionality of the smart contract by sending the following amounts of ether. After each transaction, use the contractBalance function to verify that the funds were added to your contract:
 
